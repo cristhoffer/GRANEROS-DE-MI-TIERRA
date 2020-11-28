@@ -1,4 +1,4 @@
-package com.hackaton.graneros_de_mi_tierra_app
+package com.example.granerosApp
 
 import io.flutter.embedding.android.FlutterActivity
 
